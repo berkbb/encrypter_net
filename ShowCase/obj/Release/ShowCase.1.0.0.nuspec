@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ShowCase</id>
+    <version>1.0.0</version>
+    <authors>ShowCase</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="78a09c1ab86ee3431c54d296ab56457a2908a418" />
+    <dependencies>
+      <group targetFramework="net10.0">
+        <dependency id="Encrypter_NET" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/ShowCase/bin/Release/net10.0/ShowCase.runtimeconfig.json" target="lib/net10.0/ShowCase.runtimeconfig.json" />
+    <file src="/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/ShowCase/bin/Release/net10.0/ShowCase.dll" target="lib/net10.0/ShowCase.dll" />
+  </files>
+</package>

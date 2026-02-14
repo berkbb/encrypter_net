@@ -1,0 +1,12 @@
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/bin/Release/net10.0/EncrypterLibrary.deps.json
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/bin/Release/net10.0/EncrypterLibrary.dll
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/bin/Release/net10.0/EncrypterLibrary.pdb
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/obj/Release/net10.0/EncrypterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/obj/Release/net10.0/EncrypterLibrary.AssemblyInfoInputs.cache
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/obj/Release/net10.0/EncrypterLibrary.AssemblyInfo.cs
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/obj/Release/net10.0/EncrypterLibrary.csproj.CoreCompileInputs.cache
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/obj/Release/net10.0/EncrypterLibrary.sourcelink.json
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/obj/Release/net10.0/EncrypterLibrary.dll
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/obj/Release/net10.0/refint/EncrypterLibrary.dll
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/obj/Release/net10.0/EncrypterLibrary.pdb
+/Users/berkbabadogan/Documents/GitHub/encrypter bundle/encrypter_net/EncrypterLibrary/obj/Release/net10.0/ref/EncrypterLibrary.dll
