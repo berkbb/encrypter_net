@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EncrypterLibrary/EncrypterLibrary.csproj" />
+  <Project Path="ShowCase/ShowCase.csproj" />
+</Solution>
